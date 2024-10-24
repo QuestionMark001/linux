@@ -23,6 +23,6 @@ Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
 
-[^1]: [Revert MAINTAINERS: Remove some entries due to various compliance requirements. - Greg Kroah-Hartman](https://lore.kernel.org/all/2024101835-tiptop-blip-09ed@gregkh/)  
+[^1]: [MAINTAINERS: Remove some entries due to various compliance requirements. - Greg Kroah-Hartman](https://lore.kernel.org/all/2024101835-tiptop-blip-09ed@gregkh/)  
 [^2]: [Re: Revert "MAINTAINERS: Remove some entries due to various compliance requirements." - Linus Torvalds](https://lore.kernel.org/all/CAHk-=whNGNVnYHHSXUAsWds_MoZ-iEgRMQMxZZ0z-jY4uHT+Gg@mail.gmail.com/)  
 [^3]: [安同开源社区有关 Linux 基金会及其职员不当行为的谴责 | 安同开源社区 (AOSC)](https://aosc.io/news/detail/2024-10-24-condemnation-of-the-linux-foundation-and-its-employees.zh-cn.md)
