@@ -1,6 +1,5 @@
-**A fork version of the linux kernel.**
+**A fork version of the linux kernel.**  
 Fork time: 2024/10/24 UTC+8
-============
 
 Linux kernel
 ============
