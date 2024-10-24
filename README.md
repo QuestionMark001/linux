@@ -27,4 +27,4 @@ the problems which may result by upgrading your kernel.
 [^2]: [GitHub Commit: "MAINTAINERS: Remove some entries due to various compliance requirements. · torvalds/linux@6e90b67"](https://github.com/torvalds/linux/commit/6e90b675cf942e50c70e8394dfb5862975c3b3b2)  
 [^3]: [Re: Revert "MAINTAINERS: Remove some entries due to various compliance requirements." - Linus Torvalds](https://lore.kernel.org/all/CAHk-=whNGNVnYHHSXUAsWds_MoZ-iEgRMQMxZZ0z-jY4uHT+Gg@mail.gmail.com/)  
 [^4]: [安同开源社区有关 Linux 基金会及其职员不当行为的谴责 | 安同开源社区 (AOSC)](https://aosc.io/news/detail/2024-10-24-condemnation-of-the-linux-foundation-and-its-employees.zh-cn.md)  
-[^5]: [English version of link 4](./WHY%20FORK/20241024-condemnation-english.md)
+[^5]: [English version of link 4](https://github.com/QuestionMark001/linux/blob/master/WHY%20FORK/20241024-condemnation-english.md)
